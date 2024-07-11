@@ -4,7 +4,11 @@ The Advanced Bank Management System is a C++ project designed to manage bank acc
 
 Features:
 Account Management: Create, update, and delete bank accounts.
+
 Transactions: Perform deposits and withdrawals with transaction history logging.
+
 Data Persistence: Save and load account information to and from files.
+
 Search Functionality: Search for accounts by account number.
+
 User-Friendly Interface: Simple and intuitive console-based interface.
